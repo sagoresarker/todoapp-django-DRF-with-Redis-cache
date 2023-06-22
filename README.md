@@ -1,0 +1,1 @@
+In this project, I implement a simple todo application with Redis cache and Django REST Framework
